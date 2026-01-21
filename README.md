@@ -1,6 +1,6 @@
 # Know-Show: Benchmarking Video-Language Models on Spatio-Temporal Grounded Reasoning
 
-This repository contains the official PyTorch implementation of the paper:
+This repository contains the Know-Show benchmark and the official PyTorch implementation of the paper:
 
 **Know-Show: Benchmarking Video-Language Models on Spatio-Temporal Grounded Reasoning (arXiv 2025)**  
 Chinthani Sugandhika, Chen Li, Deepu Rajan, Basura Fernando
