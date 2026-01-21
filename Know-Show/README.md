@@ -1,7 +1,7 @@
 # Know-Show Benchmark
 
 <div style="display: flex; justify-content: center;">
-  <img src="assets/dataset_diagram.png" alt="Know-Show" width="500"/>
+  <img src="../assets/dataset_diagram.png" alt="Know-Show" width="500"/>
 </div>
 
 ## Overview
