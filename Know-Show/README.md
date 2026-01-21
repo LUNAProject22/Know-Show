@@ -6,8 +6,7 @@
 
 ## Overview
 
-**Know-Show** is a benchmark designed to evaluate **Video–Language Models (Video-LMs)** on  
-**spatio-temporal grounded reasoning**.
+**Know-Show** is a benchmark designed to evaluate **Video–Language Models (Video-LMs)** on **Spatio-Temporal Grounded Reasoning**.
 
 ## Source Datasets
 
