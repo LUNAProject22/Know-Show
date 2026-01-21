@@ -1,15 +1,15 @@
 # Know-Show Benchmark
 
 <div style="display: flex; justify-content: center;">
-  <img src="assets/know-show.png" alt="Know-Show" width="500"/>
+  <img src="assets/dataset_diagram.png" alt="Know-Show" width="500"/>
 </div>
 
 ## Overview
 
-**Know-Show** is a benchmark designed to evaluate **video–language models (VLMs)** on  
+**Know-Show** is a benchmark designed to evaluate **Video–Language Models (Video-LMs)** on  
 **spatio-temporal grounded reasoning**.
 
-## Datasets
+## Source Datasets
 
 The benchmark is constructed using the following datasets:
 
