@@ -16,7 +16,7 @@ Large Video-Language Models (Video-LMs) have achieved impressive progress in mul
  <!-- for Human Motion Q&A -->
 <!-- ![Situational Scene Graph](image.png) -->
 <div style="display: flex; justify-content: center;">
-  <img src="assets/know-show.png" alt="know-show" width="800"/>
+  <img src="assets/know-show.png" alt="know-show" width="600"/>
 </div>
 
 We split our repository into two sections:
