@@ -23,8 +23,8 @@ You can download the source datasets from their official websites:
 
 ## Benchmark Version
 
-- **Current version:** [Know-Show 1.0](Know-Show_1.0/)
-- **Upcoming release:** **Know-Show 1.1 (coming soon)**
+- **Current version:** [Know-Show 1.0](Know-Show_1.1/)
+<!-- - **Upcoming release:** **Know-Show 1.1 (coming soon)** -->
 
 
 ## Citation
